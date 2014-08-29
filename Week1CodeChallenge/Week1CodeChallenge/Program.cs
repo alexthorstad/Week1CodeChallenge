@@ -17,8 +17,8 @@ namespace Week1CodeChallenge
             {
                 FizzBuzz(i);
             }
-
-            for (int i = 92; i >= 79; i++)
+            //create a loop from 92=<79
+            for (int i = 92; i >= 79; i--)
             {
                 FizzBuzz(i);
             }
