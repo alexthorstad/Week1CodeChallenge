@@ -1,0 +1,5 @@
+C:\Users\Technologist\Documents\GitHub\Week1CodeChallenge\dicethrower\dicethrower\bin\Debug\dicethrower.exe.config
+C:\Users\Technologist\Documents\GitHub\Week1CodeChallenge\dicethrower\dicethrower\bin\Debug\dicethrower.exe
+C:\Users\Technologist\Documents\GitHub\Week1CodeChallenge\dicethrower\dicethrower\bin\Debug\dicethrower.pdb
+C:\Users\Technologist\Documents\GitHub\Week1CodeChallenge\dicethrower\dicethrower\obj\Debug\dicethrower.exe
+C:\Users\Technologist\Documents\GitHub\Week1CodeChallenge\dicethrower\dicethrower\obj\Debug\dicethrower.pdb

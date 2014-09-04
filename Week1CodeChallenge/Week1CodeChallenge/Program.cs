@@ -9,7 +9,7 @@ namespace Week1CodeChallenge
     class Program
     {
         static void Main(string[] args)
-        {
+        {   // #1
             //for loop - FizzBuzz(i) pulls from below @ Static Void.
 
             //create a loop from 0=>20
@@ -50,11 +50,58 @@ namespace Week1CodeChallenge
             {
                 Console.WriteLine(number);
             }
+            
 
+         }
+        // #2
+        static void Yodaizer(string word)
+        {
+            string text = "I like code";
+            string reverse = string.Empty;
 
+            text.Reverse();
+
+            {
+                Console.WriteLine();
+                Console.ReadKey();
+            }
 
 
 
         }
+        //3
+        static void TextStats(string finder)
+        {
+            string input = "Code is suhweet!";
+            {
+                Console.WriteLine(input.Length);
+                
+                /* Not sure what to write for vowels, consonants and special characters */
+                
+            }
+        }
+        // #4
+        //IsPrime takes an integer parameter called "number" and performs logic
+        // to determine if it is a prime number.
+        static void IsPrime()
+
+        {
+            //If the number is a prime number, your function will write:
+            // "X is a prime number"
+            //If the number is not prime, print out the number.
+
+            //Create a loop from 1-25 - It calls IsPrime for each number from 1-25.
+            for (int i = 1; i >= 25; i++)
+            {
+                
+            }
+
+
+        }
+
+
+
+
     }
-}
+
+} 
